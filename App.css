@@ -1,0 +1,24 @@
+.App > input {
+  display: block;
+  margin: 0 auto;
+  text-align:center;
+}
+.App > button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 1px;
+}
+.toDo-container {
+  height: 600px;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 15px;
+
+  overflow: hidden;
+}
+.list-container {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #ccc;
+  background-color:greenyellow;
+}
